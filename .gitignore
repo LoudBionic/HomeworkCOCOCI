@@ -39,4 +39,5 @@ build/
 
 .idea/
 idea/
+.idea
 target/
